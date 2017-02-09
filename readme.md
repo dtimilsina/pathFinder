@@ -1,4 +1,4 @@
-```Instruction to use the App```
+```Instructions to use the App```
 
 - Start inserting obstacles by clicking on the tiles. Second click on the selected tiles removes the obstacle. 
 - Click on 'Select Start Cell' button to select starting cell. Second click on the selected tile will remove the selection. 
