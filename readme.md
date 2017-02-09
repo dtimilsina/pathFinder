@@ -1,3 +1,8 @@
+``` Download the Files```
+- Click on Clone or Download button 
+- Select Download as zip 
+
+
 ```Instructions to use the App```
 
 - Start inserting obstacles by clicking on the tiles. Second click on the selected tiles removes the obstacle. 
